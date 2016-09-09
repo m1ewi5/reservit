@@ -1,0 +1,47 @@
+-bash-2.05b$ ls -l
+total 3612
+-rwxr-xr-x  1 mlewis reservit    1963 Jul  3  2003 createdb.pl
+-rw-r--r--  1 mlewis reservit    3204 Nov 29  2004 directory.ls
+-rwxr-xr-x  1 mlewis reservit   19923 Jul  3  2003 email_lib.pl
+-rwxrwxrwx  1 mlewis reservit   41129 Aug 10 03:49 global_data.pl
+-rwxr-xr-x  1 mlewis reservit    9281 Jul  3  2003 hotel_res_complete.pl
+-rwxr-xr-x  1 mlewis reservit   17283 Jul  3  2003 hotel_res_confirm.pl
+-rwxr-xr-x  1 mlewis reservit    9731 Jul  3  2003 open_email_lib.pl
+-rwxr-xr-x  1 mlewis reservit   32110 Jul  3  2003 open_html_lib.pl
+-rwxr-xr-x  1 mlewis reservit   12239 Jul  3  2003 passwd_utilities_html_lib.pl
+-rwxr-xr-x  1 mlewis reservit    1875 Jul  3  2003 passwd_utilities.pl
+-rwxr-xr-x  1 mlewis reservit   11127 Jul  3  2003 passwd_utilities_processing.pl
+-rwxr-xr-x  1 mlewis reservit   23789 Jul  3  2003 rates_update.pl
+-rwxr-xr-x  1 mlewis reservit    6285 Jul  3  2003 res_cancel.pl
+-rw-rw-rw-  1 mlewis reservit    4096 Jul  3  2003 resChange.bak.db
+-rw-rw-rw-  1 mlewis reservit   24576 Jul  3  2003 resChange.bak.dir
+-rw-rw-rw-  1 mlewis reservit   24576 Jul  3  2003 resChange.bak.pag
+-rw-rw-rw-  1 mlewis reservit   12288 Jul  3  2003 resChange.db
+-rw-rw-rw-  1 mlewis reservit   24576 Jul  3  2003 resChange.dir
+-rw-rw-rw-  1 mlewis reservit   29167 Nov 16  2004 resChange.pag
+-rwxr-xr-x  1 mlewis reservit    9564 Jul  3  2003 res_complete.pl
+-rwxr-xr-x  1 mlewis reservit   19403 Jul  3  2003 res_confirm.pl
+-rwxr-xr-x  1 mlewis reservit   30603 Jul  3  2003 res_display.pl
+-rwxr-xr-x  1 mlewis reservit    8851 Jul  6  2003 res_form.pl
+-rwxr-xr-x  1 mlewis reservit   18654 Jul  3  2003 res_lib.pl
+-rwxr-xr-x  1 mlewis reservit   29342 Jul  5  2003 res_main.pl
+-rw-rw-rw-  1 mlewis reservit     426 Aug 14 05:53 res_report.txt
+-rw-rw-rw-  1 mlewis reservit    4096 Jul  3  2003 resState.bak.db
+-rw-rw-rw-  1 mlewis reservit   24576 Jul  3  2003 resState.bak.dir
+-rw-rw-rw-  1 mlewis reservit   24576 Jul  3  2003 resState.bak.pag
+-rw-rw-rw-  1 mlewis reservit   65536 Jul  3  2003 resState.db
+-rw-rw-rw-  1 mlewis reservit   24576 Jul  3  2003 resState.dir
+-rw-rw-rw-  1 mlewis reservit 2837405 Dec  3  2004 resState.pag
+-rwxr-xr-x  1 mlewis reservit    4639 Jul  3  2003 res_utilities2.pl
+-rwxr-xr-x  1 mlewis reservit  117000 Jul 18  2003 res_utilities_html_lib.pl
+-rwxr-xr-x  1 mlewis reservit    7413 Jul  3  2003 res_utilities_lib.pl
+-rwxr-xr-x  1 mlewis reservit    3978 Jul  3  2003 res_utilities.pl
+-rwxr-xr-x  1 mlewis reservit   14993 Jul  3  2003 retrieve_room_or_rates_data.pl
+-rwxr-xr-x  1 mlewis reservit    6534 Jul  3  2003 room_update.pl
+-rwxr-xr-x  1 mlewis reservit     860 Jul  3  2003 seasnHolidyTags.pl
+-rwxr-xr-x  1 mlewis reservit    7432 Jul 20  2003 secure_html_lib.pl
+-rw-r--r--  1 mlewis reservit     347 Jul  3  2003 temp
+-rw-rw-rw-  1 mlewis reservit   41129 Aug 10 03:49 temp.txt
+-rw-rw-rw-  1 mlewis reservit       4 Jul  6 03:35 trans_number
+-rw-rw-rw-  1 mlewis reservit       4 Jul  3  2003 trans_number.bak
+--

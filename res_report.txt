@@ -1,0 +1,25 @@
+
+
+     ****************************************
+     *  ONLINE RESERVATIONS SEARCH RESULTS  *
+     ****************************************
+
+
+   Your search criteria have retrieved the following Online
+   Reservation System records:
+
+
+1.
+   Arrive Date:   20
+   Depart Date:   20
+   Name:
+   Address:
+   City:
+   State:
+   Country:
+   ZIP:
+   Email:
+   Telephone:
+   Room Type:
+   Reservation Number:
+   Comments:

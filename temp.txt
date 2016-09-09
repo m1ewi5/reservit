@@ -1,0 +1,7 @@
+$openPath = '/home/groups/r/re/reservit/cgi-bin/';
+$secureUrl = 'http://reservit.sourceforge.net/cgi-bin/';
+$openUrl = 'http://reservit.sourceforge.net/cgi-bin/';
+$openHtml = 'http://reservit.sourceforge.net/cgi-bin/';
+$securePath = '/home/groups/r/re/reservit/cgi-bin/';
+$jpeg2url = 'http://www.allreservations.com/cgi-bin/graphics/generic.jpg';
+
